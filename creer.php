@@ -1,0 +1,3 @@
+<php
+$req='create table '
+?>
